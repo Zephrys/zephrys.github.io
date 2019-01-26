@@ -12,8 +12,9 @@ On this episode of the podcast we have a fellow BITS-Pilani graduate, Devanshi K
 
 Show Notes:
 
-Link to Devanshi's studio: https://instagram.com/poonamscustomizedstudio
-Free booklet on passive investing by William Bernstein: https://www.etf.com/docs/IfYouCan.pdf
+Link to [Devanshi's studio](https://instagram.com/poonamscustomizedstudio)
+
+Free booklet on passive investing by William Bernstein  [If You Can](https://www.etf.com/docs/IfYouCan.pdf)
 
 
 As always,
