@@ -2,7 +2,7 @@
 layout: post
 title: Episode 5
 subtitle: Discussing startups, life and Hitler with Devanshi Kotak!
-tags: [first post]
+tags: [episdoe 5, startups, lifes]
 comments: true
 ---
 
