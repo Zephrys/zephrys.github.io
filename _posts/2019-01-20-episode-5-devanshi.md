@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Episode 5
-subtitle: Discussing startups, life and Hitler with Devanshi Kotak!
-tags: [episdoe 5, startups, lifes]
+subtitle: 'Discussing startups, life and Hitler with Devanshi Kotak!'
+tags:
+  - episode
+  - startups
+  - life
 comments: true
+published: true
+date: '2019-01-20'
 ---
 
 On this episode of the podcast we have a fellow BITS-Pilani graduate, Devanshi Kotak talking about her exploitations throughout her college life and how they have helped her gain perspective and business clients in her startup today.
