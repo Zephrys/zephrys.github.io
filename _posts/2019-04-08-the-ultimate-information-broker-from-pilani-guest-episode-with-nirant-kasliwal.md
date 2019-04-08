@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: >-
   The Ultimate Information Broker from Pilani! | Guest Episode with Nirant
   Kasliwal!
