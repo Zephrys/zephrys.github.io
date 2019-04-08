@@ -31,10 +31,9 @@ You can find him almost everywhere on the socials, go say hi :)
 - [Facebook](https://www.facebook.com/nirant.kasliwal)
 
 Shownotes
-- For the first time on the show, a book written by our guest themselves -- Natural Language Processing with Python Quick Start Guide
+- For the first time on the show, a book written by our guest themselves -- [Natural Language Processing with Python Quick Start Guide](https://www.amazon.in/Natural-Language-Processing-Python-Quick-ebook/dp/B07L3PLQS1/)
 - Keep your identity small:  http://www.paulgraham.com/identity.html 
 - Don't call yourself a programmer:  https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/ 
 - A Powerful Mind: The Self-Education of George Washington:  https://www.goodreads.com/book/show/24453966-a-powerful-mind 
 - The courage to be disliked:  https://www.goodreads.com/book/show/36622739-the-courage-to-be-disliked
 - The Prophet:  https://www.goodreads.com/book/show/2547.The_Prophet
-
