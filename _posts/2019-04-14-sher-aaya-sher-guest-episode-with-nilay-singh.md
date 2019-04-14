@@ -32,3 +32,11 @@ Facebook   https://www.facebook.com/Nilay.Singh21
 Team Patil: Short Film  https://www.youtube.com/watch?v=3MzJSNPXd9I
 Seth Godin: Purple Cow  https://www.goodreads.com/book/show/641604.Purple_Cow
 Gliding friends video  https://www.instagram.com/p/BTb-g0kjb2x/  This gave the intial idea about @stopmotionwaale
+
+
+As always,
+Tell us what you liked and def tell us what you didn't! and don't forget to share it with someone who might derive value out of this!
+
+Have an amazing week ahead!
+⚔ ⚔ ⚔ 
+
