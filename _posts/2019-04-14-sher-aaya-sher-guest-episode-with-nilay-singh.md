@@ -14,7 +14,7 @@ tags:
   - guest
 comments: true
 ---
-I would go back and slap my 19 year old self and say that, Bro, Books are important!
+**I would go back and slap my 19 year old self and say that, Bro, Books are important!**
 
 On this episode of the podcast, we are joined by Filmmaker, Beatboxer, Drummer, Nilay Singh!
 With multiple viral hits under his belt, Nilay, who is currently working as a Director at a Marketing Solutions agency called Schbang, talks about his journey into music and film-making. He touches on his experiences of being from a middle class family and tackling social, peer and family pressures.
