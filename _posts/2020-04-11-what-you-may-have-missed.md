@@ -117,8 +117,8 @@ Befikar is a food company based out of Rajkot in India. They are working on the 
 
 Stay tuned till the end for surprises. 
 
-[Visit their website](https://www.eatbefikar.com/). 
-Follow them on Instagram [@befikarlife](https://www.instagram.com/befikarlife/?hl=en)
+- [Visit their website](https://www.eatbefikar.com/). 
+- Follow them on Instagram [@befikarlife](https://www.instagram.com/befikarlife/?hl=en)
 
 [Listen Here](https://anchor.fm/earlytwenties/episodes/Lets-live-befikar---Guest-Episode-with-Dhairik-Fuletra-e3sq6s)
 
